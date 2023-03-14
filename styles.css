@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  color: rgb(255, 0, 123);
+  font-size: 50px;
+}
+#chart_div {
+  margin: 0 auto;
+}
